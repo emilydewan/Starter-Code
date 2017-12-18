@@ -92,7 +92,7 @@ header nav ul li {
   font-size: 24px;
 }
 header nav ul li a {
-  color: #f9e42e;
+  color: #fff;
 }
 
 .nav-hamburger {
@@ -103,7 +103,7 @@ header nav ul li a {
 
 #hero {
   height: 700px;
-  background: url(../images/header_bg.jpg) no-repeat top center #131e27;
+  background: url(../images/Hero_bg_2.jpg) no-repeat top center #131e27;
   padding-top: 32px;
 }
 
@@ -128,7 +128,7 @@ header nav ul li a {
   margin: 0 auto;
 }
 .yellow {
-  background: #f9e42e;
+  background: #ffffff;
   color: #033048;
 }
 .blue {
